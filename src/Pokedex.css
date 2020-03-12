@@ -1,0 +1,11 @@
+.Pokedex {
+  background-color: pink;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+  height: 100vh;
+}
+
+.Pokedex-Header {
+  width: 100%;
+}
